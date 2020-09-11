@@ -5,3 +5,5 @@ application/guestbook/redis-slave-service.yaml
 application/guestbook/frontend-deployment.yaml 
 
 https://kubernetes.io/zh/docs/tutorials/stateless-application/guestbook/
+
+minikube start -v 9
