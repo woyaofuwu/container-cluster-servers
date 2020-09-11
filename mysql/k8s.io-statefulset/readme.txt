@@ -1,0 +1,1 @@
+https://kubernetes.io/docs/tasks/run-application/run-replicated-stateful-application/?spm=a2c6h.12873639.0.0.f8e43ea3EGFFgp
